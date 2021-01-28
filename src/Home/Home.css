@@ -1,0 +1,45 @@
+.product:hover{
+transform: scale(1.05);
+ box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+}
+
+.btn-primary{
+    background-color: #FF5700 !important;
+    border: 0px !important;
+    /* border-radius: 0px !important; */
+    color: #FFFFFF !important;
+}
+.btn-primary:focus{
+    background-color: #ff7e3d !important;
+    border: 0px !important;
+    /* border-radius: 0px !important; */
+    color: #FFFFFF !important;
+    box-shadow: none !important;
+}
+.product-image{
+    padding: 20px;
+}
+
+/* Untu Home Page */
+.product-name{
+    text-align: center;
+}
+.pruduct-price1{
+    text-align: center;
+    color: #FF5700;
+    font-weight: bold;
+}
+.pruduct-price2{
+    text-align: center;
+    text-decoration:line-through;
+}
+.homebrand-img{
+    height: 50px;
+    object-fit: contain;
+}
+
+.judul-title{
+    color: #FF5700;
+    font-weight: bold;
+}
+

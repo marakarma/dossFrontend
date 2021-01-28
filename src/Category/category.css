@@ -1,0 +1,55 @@
+.product-category-name{
+    text-align: ;
+    font-size: 15px;
+    font-weight: bold;
+    color:#6c757d;
+    margin-top: 5px;
+    line-height: 18px;
+}
+
+.line-height{
+    margin-bottom: 0px;
+}
+
+.sub-kategori{
+    margin-left: 2rem;
+}
+
+.gambar-produk{
+    height: 100px;
+    width: 100px;
+}
+
+.nama-produk{
+    color:#6c757d;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 19px;
+
+}
+.harga-coret{
+    text-decoration: line-through;
+    font-size: 12px;
+    margin-top: 1rem;
+    color: #6c757d;
+}
+.harga-pass{
+    color: #FF5700 ;
+    font-weight: bold;
+    font-size: 18px;
+
+}
+
+.harga-1{
+    color: #6c757d;
+    margin-bottom: 0px;
+    text-decoration: line-through;
+    font-size: 12px;
+}
+
+.harga-2{
+    color: #FF5700;
+    margin-bottom: 0px;
+    font-weight: bold;
+}
+
